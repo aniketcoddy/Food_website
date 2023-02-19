@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <div>
 
-      <div className="md:hidden   justify-center ">
+      <div className="md:hidden   justify-center  h-[74px] ">
         <ul className="flex flex-row gap-10 ml-[625px] xl:ml-[499px] lg:ml-[296px]  items-center mt-[23px] ">
           <li>
             <a className=" text-[16px] font-Rubik text-[#90E051] font-bold ">Home</a>
@@ -19,9 +19,9 @@ export default function Navbar() {
           <li>
             <a className=" text-[16px] font-Rubik font-bold ">Shop</a>
           </li>
-          <li><img src="MagnifyingGlass.png" className="w-[20px] h-[20px] ml-[380px] xl:ml-[262px] lg:ml-[201px]" /></li>
-          <li><img src="User.png" className="w-[20px] h-[20px]"/></li>
-          <li><img src="Tote.png" className="w-[20px] h-[20px]"/></li>
+          <li><a><img src="MagnifyingGlass.png" className="w-[20px] h-[20px] ml-[380px] xl:ml-[262px] lg:ml-[201px]" /></a></li>
+          <li><a><img src="User.png" className="w-[20px] h-[20px]"/></a></li>
+          <li><a><img src="Tote.png" className="w-[20px] h-[20px]"/></a></li>
         </ul>
       </div>
 
