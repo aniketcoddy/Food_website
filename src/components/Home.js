@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="flex flex-row md:flex-col  ml-[160px] lg:ml-[77px] md:ml-[154px] sm:ml-[34px] gap-[211px] xl:gap-[27px]">
+    <div className="flex flex-row md:flex-col  ml-[160px] lg:ml-[77px] md:ml-[154px] sm:ml-[34px] gap-[290px] xl:gap-[27px]">
       <div className="flex flex-col gap-10 mt-[129px] md:mt-[56px]">
         <div className="flex flex-col">
           <h1 className="text-[100px] xl:text-[83px] lg:text-[71px] sm:text-[50px] font-bold font-Rubik sm:leading-[13px] leading-[75px]">

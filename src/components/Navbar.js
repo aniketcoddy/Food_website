@@ -19,7 +19,7 @@ export default function Navbar() {
           <li>
             <a className=" text-[16px] font-Rubik font-bold ">Shop</a>
           </li>
-          <li><a><img src="MagnifyingGlass.png" className="w-[20px] h-[20px] ml-[380px] xl:ml-[262px] lg:ml-[201px]" /></a></li>
+          <li><a><img src="search.png" className="w-[20px] h-[20px] ml-[380px] xl:ml-[262px] lg:ml-[201px]"/></a></li>
           <li><a><img src="User.png" className="w-[20px] h-[20px]"/></a></li>
           <li><a><img src="Tote.png" className="w-[20px] h-[20px]"/></a></li>
         </ul>
