@@ -3,9 +3,11 @@ import About from './components/About'
 import Customer from './components/Customer'
 import Download from './components/Download'
 import FoodMenu from './components/FoodMenu'
+import Footer from './components/Footer'
 // import FoodMenuOpen from './components/FoodMenuOpen'
 import Home from './components/Home'
 import Navbar from './components/Navbar'
+import News from './components/News'
 import Reviews from './components/Reviews'
 
 export default function App() {
@@ -19,6 +21,8 @@ export default function App() {
   <Customer/>
   <Download/>
   <About/>
+  <Footer/>
+  
     </div>
   )
 }
