@@ -21,8 +21,8 @@ export default function App() {
   <Customer/>
   <Download/>
   <About/>
-  <Footer/>
-  <News/>
+  {/* <Footer/> */}
+  {/* <News/> */}
     </div>
   )
 }
