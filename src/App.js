@@ -22,7 +22,7 @@ export default function App() {
   <Download/>
   <About/>
   <Footer/>
-  
+  <News/>
     </div>
   )
 }
